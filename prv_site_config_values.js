@@ -1,0 +1,1 @@
+var siteConfig={owner:"1192953",na:"1612528110",c:"17",s:"zadanie-egz-02.prv.pl",adult:"0",script:"0",ssl:"-1",cat:"biznes_i_finanse",sub:"agrobiznes",cs:"4116"}
